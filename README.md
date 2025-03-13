@@ -1,6 +1,6 @@
 ![Dylaris's GitHub stats](https://github-immortality.vercel.app/api?username=Dylaris)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyalris)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylaris)
 
 
 <!--
