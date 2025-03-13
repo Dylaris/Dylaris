@@ -1,4 +1,7 @@
-## Hi there 👋
+![Dylaris's GitHub stats](https://github-immortality.vercel.app/api?username=Dylaris)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyalris)
+
 
 <!--
 **Dylaris/Dylaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
