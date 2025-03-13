@@ -1,6 +1,4 @@
-
-![Dylaris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylaris&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylaris)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylaris&layout=compact&theme=radical)
 
 
 <!--
