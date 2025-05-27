@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=999&color=C6E6E8&background=CBFF1400&width=435&lines=RTFSC)](https://git.io/typing-svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylaris&layout=compact&theme=radical)
 
 
