@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylaris&layout=compact&theme=radical)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=1000&color=00F7AA&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 
 <!--
